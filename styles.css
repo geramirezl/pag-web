@@ -31,6 +31,14 @@ body {
     padding: 20px;
   }
 
-  .sobremi .educacion{
+  .sobremi {
     background-color: blanchedalmond;
+  }
+
+  .educacion {
+    background-color: blanchedalmond;
+  }
+  .imgPC{
+    width: 50px; 
+    height: 50px;
   }
