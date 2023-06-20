@@ -18,10 +18,15 @@ body {
   section {
     padding: 50px;
   }
-  
+  p{
+    max-width: 300px;
+    text-align: center;
+    display: inline-block;
+  }
   ul {
-    list-style-type: disc;
+    
     padding-left: 20px;
+    list-style-type: none;
   }
   
   footer {
@@ -29,21 +34,24 @@ body {
     color: #fff;
     text-align: center;
     padding: 20px;
+    
   }
 
   .sobremi {
     background-color: #1D7A8C;
     color: #fff;
+    text-align: center;
   }
 
 
   .proyectos{
     background-color: #FFCE54;
-    
+    text-align: center;
   }
   .educacion{
     background-color: #1D7A8C;
     color: #fff;
+    text-align: center;
   }
  header img{
     width: 100px; 
